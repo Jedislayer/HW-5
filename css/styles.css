@@ -81,6 +81,7 @@ body {
   background-color: teal;
   width: auto;
   height: 500px;
+  position: relative;
 }
 .contact-heading {
   font-family: Lato;
@@ -104,4 +105,18 @@ body {
   padding-left: 176px;
   padding-bottom: 270px;
   max-width: 23%;
+}
+.input {
+  position: absolute;
+  right: 450px;
+  top: 140px;
+}
+
+.input-surname-first-text, .input-surname-last-text, .input-phone-text, .input-service-text {
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+  color: rgba(19, 39, 67, 0.5);
 }
