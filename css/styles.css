@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Lato;
+  
+  /* background-repeat: repeat-x;
+  background-color: teal; */
+  /* background-image: url('../img/contact/Bg1.png');
+  background-image: url('../img/footer/Bg3.png'); */
+}
+.gallery {
+  background-image: url("../img/gallery/Bg.png");
+  background-repeat: repeat-x;
+  background-color: teal;
+}
