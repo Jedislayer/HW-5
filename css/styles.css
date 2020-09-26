@@ -142,13 +142,17 @@ body {
   right: 165px;
 }
 .input-phone-text {
-  padding: 21px 403px 20px 31px;
+  padding: 21px 550px 20px 31px;
   box-sizing: border-box;
   border-radius: 6px;
   border: 1px solid #333333;
 }
+.input-phone {
+  position: relative;
+  top: 24px;
+}
 .input-service-text {
-  padding: 21px 411px 20px 31px;
+  padding: 21px 550px 20px 31px;
   box-sizing: border-box;
   border-radius: 6px;
   border: 1px solid #333333;
@@ -156,7 +160,11 @@ body {
 .input-service-img {
   position: relative;
   bottom: 42px;
-  left: 570px;
+  left: 720px;
+}
+.input-service {
+  position: relative;
+  top: 48px;
 }
 .input-submit-all {
   font-style: normal;
@@ -169,4 +177,8 @@ body {
   border: 1.5px solid #ED4C5C;
   box-sizing: border-box;
   border-radius: 6px;
+}
+.input-submit {
+  position: relative;
+  top: 48px;
 }
