@@ -165,10 +165,14 @@ body {
   line-height: 17px;
   color: #FFFFFF;
   padding: 17px 34px 16px 34px;
-}
-.input-submit {
+  background: #ED4C5C;
   border: 1.5px solid #ED4C5C;
   box-sizing: border-box;
   border-radius: 6px;
-  background: #ED4C5C;
+}
+/* .input-submit {
+  border: 1.5px solid #ED4C5C;
+  box-sizing: border-box;
+  border-radius: 6px;
+  background: #ED4C5C; */
 }
