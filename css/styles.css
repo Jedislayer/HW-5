@@ -108,7 +108,7 @@ body {
 }
 .input {
   position: absolute;
-  right: 450px;
+  right: 165px;
   top: 140px;
 }
 
@@ -127,7 +127,7 @@ body {
   border-radius: 6px;
 }
 .input-surname-last-text {
-  padding: 21px 149px 20px 31px;
+  padding: 21px 146px 20px 31px;
   box-sizing: border-box;
   border-radius: 6px;
   border: 1px solid #333333;
@@ -169,10 +169,4 @@ body {
   border: 1.5px solid #ED4C5C;
   box-sizing: border-box;
   border-radius: 6px;
-}
-/* .input-submit {
-  border: 1.5px solid #ED4C5C;
-  box-sizing: border-box;
-  border-radius: 6px;
-  background: #ED4C5C; */
 }
