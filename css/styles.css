@@ -5,10 +5,6 @@
 
 body {
   font-family: Lato;
-  /* background-repeat: repeat-x;
-  background-color: teal; */
-  /* background-image: url('../img/contact/Bg1.png');
-  background-image: url('../img/footer/Bg3.png'); */
 }
 .gallery {
   background-image: url("../img/gallery/Bg.png");
@@ -181,4 +177,123 @@ body {
 .input-submit {
   position: relative;
   top: 48px;
+}
+
+.footer {
+  background-image: url("../img/footer/Bg3.png");
+  background-repeat: repeat-x;
+  background-color: teal;
+  width: auto;
+  height: 435px;
+  position: relative;
+}
+.footer-address-heading {
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 22px;
+  color: #101010;
+  font-style: normal;
+  position: absolute;
+  left:166px;
+  top: 85px;
+}
+.footer-address-text {
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 150%;
+  color: #101010;
+  font-style: normal;
+  position: absolute;
+  left:166px;
+  top: 140px;
+}
+.footer-address-copyright {
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 14px;
+  color: #101010;
+  font-style: normal;
+  position: absolute;
+  left:161px;
+  top: 335px;
+}
+.footer-services-heading {
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 22px;
+  color: #101010;
+  font-style: normal;
+  position: absolute;
+  left:450px;
+  top: 85px;
+}
+.footer-services-text {
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 160%;
+  color: #000000;
+  font-style: normal;
+  position: absolute;
+  left:450px;
+  top: 135px;
+}
+.footer-touch-heading {
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 22px;
+  color: #101010;
+  font-style: normal;
+  position: absolute;
+  left:734px;
+  top: 85px;
+}
+.footer-touch-text-1 {
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 14px;
+  color: #101010;
+  font-style: normal;
+  position: absolute;
+  left:734px;
+  top: 140px;
+}
+.footer-touch-text-2 {
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 14px;
+  color: #101010;
+  font-style: normal;
+  position: absolute;
+  left:734px;
+  top: 165px;
+}
+.footer-touch-img-facebook {
+  position: absolute;
+  left:734px;
+  top: 199px;
+}
+.footer-touch-img-linkedin {
+  position: absolute;
+  left:760px;
+  top: 199px;
+}
+.footer-touch-img-twitter {
+  position: absolute;
+  left:786px;
+  top: 199px;
+}
+.footer-support-heading {
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 22px;
+  color: #101010;
+  font-style: normal;
+  position: absolute;
+  left:1022px;
+  top: 85px;
+}
+.footer-support-img {
+  position: absolute;
+  left:1028px;
+  top: 140px;
 }
