@@ -117,25 +117,19 @@ body {
   color: rgba(19, 39, 67, 0.5);
 }
 .input-surname-first-text {
-  padding: 21px 146px 20px 31px;
+  padding: 21px 150px 20px 31px;
   border: 1px solid #333333;
   box-sizing: border-box;
   border-radius: 6px;
 }
 .input-surname-last-text {
-  padding: 21px 146px 20px 31px;
+  padding: 21px 150px 20px 31px;
   box-sizing: border-box;
   border-radius: 6px;
   border: 1px solid #333333;
-}
-.input-surname {
-  display: flex;
-}
-.input-surname-first {
-  margin-right: 30px;
-}
-.input-surname-last {
-  right: 165px;
+  position: relative;
+  top: -63px;
+  right: -400px;
 }
 .input-phone-text {
   padding: 21px 550px 20px 31px;
@@ -145,7 +139,7 @@ body {
 }
 .input-phone {
   position: relative;
-  top: 24px;
+  top: -34px;
 }
 .input-service-text {
   padding: 21px 550px 20px 31px;
@@ -155,14 +149,12 @@ body {
 }
 .input-service-img {
   position: absolute;
-  /* bottom: 42px;
-  left: 500px;  */
   top: 23px;
   left: 735px;
 }
 .input-service {
   position: relative;
-  top: 48px;
+  top: -6px;
 }
 .input-submit-all {
   font-style: normal;
@@ -178,7 +170,7 @@ body {
 }
 .input-submit {
   position: relative;
-  top: 72px;
+  top: 24px;
 } 
 
 .footer {
